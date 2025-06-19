@@ -1,0 +1,11 @@
+pose_classifier.onnx
+pose_classifier.pt
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.mp4
+__pycache__/
+.DS_Store
+labels.csv
+images/ 
